@@ -1,16 +1,23 @@
-### Hi there 👋
+# 👋 Hi there, I'm Zack Grooms!
 
-<!--
-**BeardedNerd92/BeardedNerd92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻 I'm currently working on **Aranda Lawn Service Invoicing System**.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🌱 I’m currently learning **full stack development** with React and Django.
+
+  
+- 🤖 I'm interested in diving deeper into **AI and Machine Learning**.
+
+  
+- 📫 Reach me: [Twitter](https://twitter.com/grooms_nicholas) | [Email](IntMain92@gmail.com)
+
+
+- 💬 Ask me about the **Aranda Lawn Service Invoicing System** or anything related to my projects!
+
+---
+
+### 🎉 Fun Fact
+
+Did you know that the first computer virus was created in 1983 and was called the "Elk Cloner"? It was a boot sector virus that targeted Apple II computers!
+
